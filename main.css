@@ -92,7 +92,7 @@ body{
 
 #mobileEarth{display: none}
 .blueGradientText{
-    background: linear-gradient(to right,rgb(223 95 255),rgb(78 124 255));
+    background: #f4f3e4;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
