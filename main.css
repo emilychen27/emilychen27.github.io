@@ -91,7 +91,7 @@ body{
 }
 
 #mobileEarth{display: none}
-.blueGradientText{
+.creamText{
     background: #f4f3e4;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
